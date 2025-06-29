@@ -65,6 +65,7 @@ Apps or services that let you sync your own video and Funscripts
   - Make a playlist of your local video and script files. Funscript and CSV supported. Script must contain the video name to work.
 - [Funscript v1: Play local script](https://funscript.io/play)
 - [Funscript v2: Play local script](https://beta.funscript.io/app/play)
+- [Funscript player](https://funscriptplayer.com/)
 
 ## Scripts
 Sites that offer no playback, just the Funscripts  
