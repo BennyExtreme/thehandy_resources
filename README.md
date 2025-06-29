@@ -84,7 +84,7 @@ Apps or services that let you sync your own video and Funscripts
   - Support for [mega.nz](https://www.mega.nz/)
   - Support for [erome](https://www.erome.com/)
   - Support for [XVideos](https://xvideos.com/)
-- [theHandy support for xHamster (Tampermonkey script)](https://raw.githubusercontent.com/BennyExtreme/thehandy_resources/master/xhamster.js)
+  - Support for [xHamster](https://xhamster.com/)
 
 ## Scripts
 Sites that offer no playback, just the Funscripts  
