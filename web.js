@@ -18,25 +18,26 @@
 	'use strict';
 
 	// Embedded website configurations
-	const WEBSITE_CONFIGS = [{
+	const WEBSITE_CONFIGS = [
+		{
 			"url_regex": "https://.*\\.pornhub\\.com/view_video\\..*\\?viewkey=.*",
 			"video_xpath": "//div[contains(@class,'_videoWrapper')]/video"
 		},
 		{
-			"url_regex": "https://.*spankbang\\.com/.*/video/.*",
+			"url_regex": "https://.*\\.spankbang\\.com/.*/video/.*",
 			"video_xpath": "//video[@id='main_video_player_html5_api']"
 		},
 		{
-			"url_regex": "https://rule34video\\.com/videos/.*/.*",
+			"url_regex": "https://rule34video\\.com/video/.*/.*",
 			"video_xpath": "//div[@id='kt_player']/div[@class='fp-player']/video"
 		},
 		{
-			"url_regex": "https://ecchi\\.iwara\\.tv/videos/.*",
-			"video_xpath": "//video[@id='video-player_html5_api']"
+			"url_regex": "https://www\\.iwara\\.tv/video/.*/.*",
+			"video_xpath": "//video[@id='//video[@id='video-player_html5_api']']"
 		},
 		{
 			"url_regex": "https://pixeldrain\\.com/u/.*",
-			"video_xpath": "//div[@class='image-container']/video"
+			"video_xpath": "//video[contains(@class,'player')]"
 		},
 		{
 			"url_regex": "https://rule34\\.xxx/index\\.php.*page=post.*",
@@ -47,18 +48,6 @@
 			"video_xpath": "//div[@id='kt_player']/div[contains(@class, 'player')]/video"
 		},
 		{
-			"url_regex": "https://www\\.povaddict\\.com/.*",
-			"video_xpath": "//video[@id='video-player_html5_api']"
-		},
-		{
-			"url_regex": "https://hanime\\.tv/videos/hentai/.*",
-			"video_xpath": "//video[@id='video-player_html5_api']"
-		},
-		{
-			"url_regex": "https://www\\.manyvids\\.com/Video/.*",
-			"video_xpath": "//video[@class='rmp-object-fit-contain rmp-video']"
-		},
-		{
 			"url_regex": "https://www\\.mega\\.nz/.*",
 			"video_xpath": "//video[@id='video']"
 		},
@@ -67,19 +56,7 @@
 			"video_xpath": "//video[@class='vjs-tech']"
 		},
 		{
-			"url_regex": "https://hentaihaven\\.xxx/watch/.*",
-			"video_xpath": "//video[@class='jw-video']"
-		},
-		{
-			"url_regex": "https://pornez\\.net/video.*",
-			"video_xpath": "//video[@id='hls-video']"
-		},
-		{
-			"url_regex": "https://pornwild\\.com/ru/videos/.*",
-			"video_xpath": "//video[@class='fp-engine']"
-		},
-		{
-			"url_regex": "https://www\\.xvideos\\.com/video.*",
+			"url_regex": "https://.*\\.xvideos\\.com/video.*",
 			"video_xpath": "//div[@id='hlsplayer']/div[@class='video-bg-pic']/video"
 		}
 	];
