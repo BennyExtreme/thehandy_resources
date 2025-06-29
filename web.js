@@ -58,7 +58,11 @@
 		{
 			"url_regex": "https://.*\\.xvideos\\.com/video.*",
 			"video_xpath": "//div[@id='hlsplayer']/div[@class='video-bg-pic']/video"
-		}
+		},
+		{
+	            "url_regex": "https://.*\\.xhamster\\.com/videos/.*",
+	            "video_xpath": "//video[@id='xplayer__video']"
+	        }
 	];
 
 	// Modern SVG icon for theHandy
@@ -673,7 +677,7 @@
 			}
 
 			const formData = new FormData();
-			const filename = window.location.href.split('viewkey=')[1] || 'unknown';
+			const filename = 'unknown';
 			formData.set("syncFile", new File([file], filename + ".funscript"));
 
 			this.handy.logMessage('Uploading script file...');
@@ -826,6 +830,7 @@
 				play: () => this.onVideoPlay(),
 				playing: () => this.onVideoPlay(),
 				seeked: () => this.onVideoPlay(),
+				progress: () => this.onVideoPlay(),
 				pause: () => this.onVideoPause(),
 				waiting: () => this.onVideoPause(),
 				seeking: () => this.onVideoPause()
