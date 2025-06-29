@@ -74,6 +74,7 @@ Apps or services that let you sync your own video and Funscripts
 - [Funscript v2: Play local script](https://beta.funscript.io/app/play)
 - [Funscript player](https://funscriptplayer.com/)
 - [theHandy support for PornHub (Tampermonkey script)](https://raw.githubusercontent.com/jabiim/theHandy_Web/master/script.js)
+- [theHandy support for xHamster (Tampermonkey script)](xhamster.js)
 
 ## Scripts
 Sites that offer no playback, just the Funscripts  
