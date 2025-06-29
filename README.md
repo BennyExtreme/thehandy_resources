@@ -10,7 +10,7 @@ List of resources for [The Handy™](https://www.thehandy.com/)
 - [Other resources](#other-resources)
 
 ## Controllers
-Sites that let you control your toy
+Sites that let you control a toy
 - [Handy Feeling: Remote control](https://new.handyfeeling.com/#/remote)
 - [Handy Feeling (Legacy): Remote control](https://www.handyfeeling.com/remote)
 - [Handy Feeling: Random stroker](https://new.handyfeeling.com/#/random-classic)
@@ -27,6 +27,8 @@ Sites that let you control your toy
 - [Funscript v2: Cycler mode](https://beta.funscript.io/app/cycler)
 - [Cummander](https://www.cummander.com/)
 - [Wingman](https://wingman.theappstore.org/)
+- [Come Play With Me](https://comeplaywithme.online/findpartner)
+  - A website that allows you to share your Username or Link with a total stranger.
 
 ## Sync Controllers
 Sites that let you control multiple toys at once
