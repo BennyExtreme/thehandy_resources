@@ -73,8 +73,8 @@ Sites that offer no playback, just the Funscripts
   - Registration required, offers both free and paid scripts. Registration is free. Lots of additional information and potentially other resources.
 - [ScriptAxis](https://scriptaxis.com/)
   - Personally, I haven't used this one as much, more thoughts when I do.
-- [RealSync](https://realsync.us/)
-  - Offers [free](https://realsync.us/collections/free-syncs) and paid Funscripts. Once again, personally I have not used this one as much.
+- [RealSync](https://realsync.us/collections/free-syncs)
+  - Once again, personally I have not used this one as much.
 - [Connect My Handy](https://www.connectmyhandy.com/)
   - Features popular previews for scenes released in 2010s. If available, full versions are linked inside the preview.
   - I haven't heard of this one, on my list to check out.
