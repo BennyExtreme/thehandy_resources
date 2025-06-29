@@ -2,6 +2,8 @@
 List of resources for [The Handy™](https://www.thehandy.com/)
 - [Setup](https://onboarding.handyfeeling.com/)
 - [Controllers](#controllers)
+- [Sync Controllers](#sync-controllers)
+- [Searching controller](#searching-controller)
 - [Video Platform & Syncs](#video-platform--syncs)
 - [Playback engines, bring your own script](#playback-engines)
 - [Scripts](#scripts)
@@ -27,8 +29,6 @@ Sites that let you control a toy
 - [Funscript v2: Cycler mode](https://beta.funscript.io/app/cycler)
 - [Cummander](https://www.cummander.com/)
 - [Wingman](https://wingman.theappstore.org/)
-- [Come Play With Me](https://comeplaywithme.online/findpartner)
-  - A website that allows you to share your Username or Link with a total stranger.
 
 ## Sync Controllers
 Sites that let you control multiple toys at once
@@ -37,6 +37,11 @@ Sites that let you control multiple toys at once
 - [Handy Playground: MultiControl](https://playground.handyfeeling.com/channel/)
   - Control multiple Handys at once. Share control and create links for other Handy owners to join.
 - [XToys](https://xtoys.app/)
+
+# Searching controller
+Sites that allows you to find a toy to control/someone to control your toy
+- [Come Play With Me](https://comeplaywithme.online/findpartner)
+  - A website that allows you to share your Username or Link with a total stranger.
 
 ## Video Platform & Syncs
 Offers playback and sync in one
