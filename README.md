@@ -101,6 +101,8 @@ Sites that offer no playback, just the Funscripts
   - Simple tool to created custom repeatable patterns that allows fully customized strokes. Save your patterns and easily switch between them.
 - [Funscript v1: Modify script](https://funscript.io/modify)
 - [Funscript v2: Modify script](https://beta.funscript.io/app/modify)
+- [JoyFunScripter](https://discuss.eroscripts.com/t/joyfunscripter-0-13-1-make-your-own-scripts/2552)
+- [OpenFunscripter](https://github.com/OpenFunscripter/OFS)
 
 ## Other resources
 ### The Handy Subreddit
